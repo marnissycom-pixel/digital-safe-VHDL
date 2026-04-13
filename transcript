@@ -20,3 +20,5 @@ vsim -gui work.testbench
 # Loading work.fsm(behavioral)
 add wave -r /*
 run 800ns
+wave zoom full
+# {0 ps} {840 ns}
