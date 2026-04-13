@@ -1,0 +1,22 @@
+# Compile of comparator.vhd was successful.
+# Compile of counter.vhd was successful.
+# Compile of timer.vhd was successful.
+# Compile of fsm.vhd was successful.
+# Compile of top.vhd was successful.
+# Compile of testbench.vhd was successful.
+# 6 compiles, 0 failed with no errors.
+vsim -gui work.testbench
+# vsim -gui work.testbench 
+# Start time: 21:05:10 on Apr 13,2026
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading work.testbench(behavioral)
+# Loading work.top(structural)
+# Loading work.comparator(behavioral)
+# Loading ieee.numeric_std(body)
+# Loading work.counter(behavioral)
+# Loading work.timer(behavioral)
+# Loading work.fsm(behavioral)
+add wave -r /*
+run 800ns

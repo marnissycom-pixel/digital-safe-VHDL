@@ -1,0 +1,261 @@
+m255
+K4
+z2
+!s11e vcom 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/Shehine/Desktop/16bit calc
+Ecomparator
+Z0 w1776110629
+Z1 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z2 DPx4 ieee 14 std_logic_1164 0 22 cVAk:aDinOX8^VGI1ekP<3
+!i122 0
+Z3 dC:/Users/Shehine/Desktop/DIGITAL_SAFE
+Z4 8C:/Users/Shehine/Desktop/DIGITAL_SAFE/comparator.vhd
+Z5 FC:/Users/Shehine/Desktop/DIGITAL_SAFE/comparator.vhd
+l0
+L4 1
+VU]f^:<@HD3>]aBM:OHdNg1
+!s100 FU?]nLjjJoKUo?RmY>b860
+Z6 OV;C;2020.1;71
+32
+Z7 !s110 1776110690
+!i10b 1
+Z8 !s108 1776110690.000000
+Z9 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Shehine/Desktop/DIGITAL_SAFE/comparator.vhd|
+Z10 !s107 C:/Users/Shehine/Desktop/DIGITAL_SAFE/comparator.vhd|
+!i113 1
+Z11 o-work work -2002 -explicit
+Z12 tExplicit 1 CvgOpt 0
+Abehavioral
+R1
+R2
+DEx4 work 10 comparator 0 22 U]f^:<@HD3>]aBM:OHdNg1
+!i122 0
+l13
+L12 4
+VoH@k6K7DImf79[ZJcK[5R1
+!s100 @]aZ`C3i26]O<nT<;<SfK1
+R6
+32
+R7
+!i10b 1
+R8
+R9
+R10
+!i113 1
+R11
+R12
+Ecounter
+Z13 w1776110638
+Z14 DPx4 ieee 11 numeric_std 0 22 aU^R8eGcicLcUFIaBQSL>3
+R1
+R2
+!i122 1
+R3
+Z15 8C:/Users/Shehine/Desktop/DIGITAL_SAFE/counter.vhd
+Z16 FC:/Users/Shehine/Desktop/DIGITAL_SAFE/counter.vhd
+l0
+L5 1
+V[`LOBDHjQ[;khC4?@6YC^3
+!s100 A_QMXalJ5<56oR?7XZ9gC2
+R6
+32
+R7
+!i10b 1
+R8
+Z17 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Shehine/Desktop/DIGITAL_SAFE/counter.vhd|
+Z18 !s107 C:/Users/Shehine/Desktop/DIGITAL_SAFE/counter.vhd|
+!i113 1
+R11
+R12
+Abehavioral
+R14
+R1
+R2
+DEx4 work 7 counter 0 22 [`LOBDHjQ[;khC4?@6YC^3
+!i122 1
+l17
+L15 17
+VQ12n`CWaPjPk?4Tn5d:mj2
+!s100 kZiM6c?>a=G^Hjc:ZSzOD1
+R6
+32
+R7
+!i10b 1
+R8
+R17
+R18
+!i113 1
+R11
+R12
+Efsm
+Z19 w1776110653
+R1
+R2
+!i122 3
+R3
+Z20 8C:/Users/Shehine/Desktop/DIGITAL_SAFE/fsm.vhd
+Z21 FC:/Users/Shehine/Desktop/DIGITAL_SAFE/fsm.vhd
+l0
+L4 1
+VUolETILn8NbP7>Tg@@I1X2
+!s100 nFYY56oCSlW`EEIMnW?2X0
+R6
+32
+R7
+!i10b 1
+R8
+Z22 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Shehine/Desktop/DIGITAL_SAFE/fsm.vhd|
+Z23 !s107 C:/Users/Shehine/Desktop/DIGITAL_SAFE/fsm.vhd|
+!i113 1
+R11
+R12
+Abehavioral
+R1
+R2
+DEx4 work 3 fsm 0 22 UolETILn8NbP7>Tg@@I1X2
+!i122 3
+l24
+L21 59
+VPn8PD=IBBH50m[0dIXE?D1
+!s100 m6FLYHO=B[9CNJUEc?BSc3
+R6
+32
+R7
+!i10b 1
+R8
+R22
+R23
+!i113 1
+R11
+R12
+Etestbench
+Z24 w1776110680
+R1
+R2
+!i122 5
+R3
+Z25 8C:/Users/Shehine/Desktop/DIGITAL_SAFE/testbench.vhd
+Z26 FC:/Users/Shehine/Desktop/DIGITAL_SAFE/testbench.vhd
+l0
+L4 1
+VTz<lFEBj;MPEg:0H>b1Do1
+!s100 zV?DSKOdjRnaRgmTS>F@00
+R6
+32
+R7
+!i10b 1
+R8
+Z27 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Shehine/Desktop/DIGITAL_SAFE/testbench.vhd|
+!s107 C:/Users/Shehine/Desktop/DIGITAL_SAFE/testbench.vhd|
+!i113 1
+R11
+R12
+Abehavioral
+R1
+R2
+DEx4 work 9 testbench 0 22 Tz<lFEBj;MPEg:0H>b1Do1
+!i122 5
+l29
+L7 62
+VS<hTKmmL@6Dh8RSl6Z]Yg1
+!s100 8JGN9nVP9K7<f1?aU9WSR0
+R6
+32
+R7
+!i10b 1
+R8
+R27
+Z28 !s107 C:/Users/Shehine/Desktop/DIGITAL_SAFE/testbench.vhd|
+!i113 1
+R11
+R12
+Etimer
+Z29 w1776110646
+R14
+R1
+R2
+!i122 2
+R3
+Z30 8C:/Users/Shehine/Desktop/DIGITAL_SAFE/timer.vhd
+Z31 FC:/Users/Shehine/Desktop/DIGITAL_SAFE/timer.vhd
+l0
+L5 1
+V=WVD]oh8[I[7P33L=WL_c3
+!s100 k7_DE?ck_:L[hh@UmZbki0
+R6
+32
+R7
+!i10b 1
+R8
+Z32 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Shehine/Desktop/DIGITAL_SAFE/timer.vhd|
+Z33 !s107 C:/Users/Shehine/Desktop/DIGITAL_SAFE/timer.vhd|
+!i113 1
+R11
+R12
+Abehavioral
+R14
+R1
+R2
+DEx4 work 5 timer 0 22 =WVD]oh8[I[7P33L=WL_c3
+!i122 2
+l17
+L14 26
+V:YKiOK01<nI`]5b9R5X?I1
+!s100 oj0E3mM@UO7O`_`??M?j<0
+R6
+32
+R7
+!i10b 1
+R8
+R32
+R33
+!i113 1
+R11
+R12
+Etop
+Z34 w1776110662
+R1
+R2
+!i122 4
+R3
+Z35 8C:/Users/Shehine/Desktop/DIGITAL_SAFE/top.vhd
+Z36 FC:/Users/Shehine/Desktop/DIGITAL_SAFE/top.vhd
+l0
+L4 1
+V6bnIKcdoO1dz6Bn9bBiST3
+!s100 7<1=6dYSJWHH0PD43Fg:a2
+R6
+32
+R7
+!i10b 1
+R8
+Z37 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Shehine/Desktop/DIGITAL_SAFE/top.vhd|
+Z38 !s107 C:/Users/Shehine/Desktop/DIGITAL_SAFE/top.vhd|
+!i113 1
+R11
+R12
+Astructural
+R1
+R2
+DEx4 work 3 top 0 22 6bnIKcdoO1dz6Bn9bBiST3
+!i122 4
+l72
+L16 64
+V33G;eLcUGD4m5jQkjbL9m3
+!s100 J11ezA_SZgEiDIfV6EC`j2
+R6
+32
+R7
+!i10b 1
+R8
+R37
+R38
+!i113 1
+R11
+R12
